@@ -7,7 +7,7 @@ By following this tutorial, you will learn how to create a new account on Codewa
 Using a GitHub repository for my CodeWars exercises is a great idea. It's like having a secundary portfolio for my coding journey. I can organize all my solutions neatly, get feedback from others, and show off my problem-solving skills. Sharing my work publicly not only showcases what I can do but also invites collaboration and demonstrates my commitment to learning and improving. It's a smart move that can help boost my profile in the tech community and open up new opportunities.
 
 ## Kata score
-![codewars rank](https://www.codewars.com/users/BreadyBred/badges/micro)
+![codewars rank](https://www.codewars.com/users/BreadyBred/badges/small)
 
 ## My profile
 [My codewars profile](https://www.codewars.com/users/BreadyBred) !
